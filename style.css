@@ -9,3 +9,7 @@ body {
   border-radius: 30px;
   border: 15px double rgb(201, 219, 233);
 }
+
+ellipse {
+  color: snow;
+}
